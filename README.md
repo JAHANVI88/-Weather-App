@@ -7,25 +7,6 @@ The application allows users to search for any city and instantly view current w
 ---
 
 
----
-
-## 📸 Screenshots
-
-### Default View
-
-![Default Screen](ss/demo1.png)
-
-### Weather Information Display
-
-![Weather Data](ss/demo.png)
-
-### Empty Input Validation
-
-![Empty Input](ss/empty.png)
-
-### Invalid City Handling
-
-![Invalid Input](ss/bad.png)
 
 ---
 
